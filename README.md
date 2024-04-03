@@ -1,6 +1,6 @@
 ### Hi there! I'm Vicenzo Martins Marramarco 👋
 <div style="background-color: #0d1117;">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
   <div align="center" style="background-color: #0d1117;">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&background=00008B&center=true&vCenter=true&width=600&height=100&lines=Hi+there+%F0%9F%91%8B;My+name+is+Vicenzo+Marramarco;I'm+from+Brazil;I'm+a+Software+Engineering+Student;I+am+20+years+old;Be+Welcome!" alt="Typing SVG" /></a>
@@ -17,6 +17,6 @@
  
 </div>
     
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98FB98&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
 </div>
 
