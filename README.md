@@ -1,5 +1,5 @@
 ### Hi there! I'm Vicenzo Martins Marramarco 👋
-<div style="background-color: #006400;">
+<div style="background-color: 006400;">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
   <div align="center" style="background-color: #0d1117;">
