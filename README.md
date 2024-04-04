@@ -1,4 +1,4 @@
-### Hi there! I'm Vicenzo Martins Marramarco 👋
+### Hello there! I'm Vicenzo Martins Marramarco 👋
 <div style="background-color: #0d1117;">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
