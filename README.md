@@ -12,7 +12,7 @@
   
   <h2 style="color🟡;">Social Media</h2>
   
-  [![Instagram](https://media.discordapp.net/attachments/837138328230035536/1154726284522438766/Instagram-_E4405F.png?width=112&height=23)](https://www.instagram.com/vicenzomarramarco/)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vicenzomarramarco/)
    
  
 </div>
