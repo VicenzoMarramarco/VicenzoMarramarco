@@ -9,6 +9,8 @@
 
   <img width="41%" height="195px" src="https://github-profile-trophy.vercel.app/?username=VicenzoMarramarco&theme=darkhub&row=2&no-bg=false&column=3&margin-w=15&margin-h=15" />
   <img width="49%" height="215px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicenzoMarramarco&layout=donut&hide_border=true&title_color=98FB98&text_color=98FB98&bg_color=0d1117" />
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
   
   <h2 style="color🟡;">Social Media</h2>
   
