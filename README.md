@@ -14,11 +14,7 @@
 
 ## 📊 Contribuições
 
-<img width="100%" src="https://ghchart.rshah.org/39d353/VicenzoMarramarco" alt="Gráfico de contribuições do GitHub de VicenzoMarramarco" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VicenzoMarramarco&bg_color=0d1117&color=98FB98&line=FFD700&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade" />
+<img width="100%" src="https://github.pumbas.net/api/contributions/VicenzoMarramarco?bgColour=0d1117&colour=39d353#gh-dark-mode-only" alt="" />
 
 ## 🚀 Languages & Tools
 
